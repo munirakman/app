@@ -1,2 +1,3 @@
 merhaba
 remote masterdan gelen gücelleme
+remote msterdan ikinci satır
