@@ -4,3 +4,4 @@ ikinci satır
 remote masterdan gelen gücelleme
 remote msterdan ikinci satır
 yeni bir seyler ekledim
+son kez ekle
